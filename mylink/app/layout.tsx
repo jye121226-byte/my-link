@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "윤창식 | Frontend Engineer",
-  description: "윤창식 개발자의 프로필 페이지입니다. 프론트엔드 엔지니어링 및 AI 에이전트 파이프라인 설계를 전문으로 합니다.",
+  title: "조예은 | Frontend Developer & Designer",
+  description: "조예은 개발자의 프로필 페이지입니다. 아름다운 인터페이스와 웹 서비스를 만드는 프론트엔드 개발자입니다.",
 };
 
 export default function RootLayout({
